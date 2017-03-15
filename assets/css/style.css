@@ -1,0 +1,108 @@
+body {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../images/nick-cage-background.jpg);
+    background-size: cover;
+}
+
+#title {
+    width: 450px;
+    padding: 10px;
+    font-size: 56px;
+    text-align: center;
+    border: 1px;
+    border-color: grey;
+    margin-left: 65px;
+    margin-top: 5px;
+}
+
+#text {
+    width: 600px;
+    margin-top: 10px;
+    background-color: tan;
+    font-size: 38px;
+    border: 1px;
+    border-color: grey;
+    background-image: url(../images/blank-parchment.jpg);
+    background-size: cover;
+}
+
+#reqNumber {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    margin-right: 50px;
+    border: 1px;
+    border-color: grey;
+    color: white;
+    background-image: url(../images/safe-door.jpg);
+    background-size: cover;
+}
+
+#display {
+    color: black;
+    text-align: center;
+    font-size: 72px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+#score {
+    box-sizing: border-box;
+    width: 250px;
+    height: 200px;
+    background-color: deepskyblue;
+    float: left;
+    text-align: center;
+    font-size: 38px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: 1px;
+    border-color: grey;
+}
+
+#crystals {
+    margin-top: 10px;
+    float: left;
+}
+
+.pictures {
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px;
+    border-color: grey;
+}
+
+#red {
+    margin-left: 0;
+}
+
+#yourNumber {
+    float: left;
+    width: 300px;
+    font-size: 28px;
+    background-color: teal;
+    height: 29px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px;
+    border-color: grey;
+}
+
+#actual {
+    box-sizing: border-box;
+    width: 300px;
+    height: 200px;
+    background-color: teal;
+    float: left;
+    margin-top: 10px;
+    font-size: 36px;
+    text-align: center;
+    padding: 80px;
+    font-weight: bold;
+}
