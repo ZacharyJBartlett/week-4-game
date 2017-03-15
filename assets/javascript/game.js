@@ -21,10 +21,6 @@ $('#yellow').click(function() {
 
 
 var number1 = (Math.round(Math.random() * 101 - 0) + 19);
-console.log(number1);
+
 
 $("#display").html(number1);
-
-if $('#actual') === number1 {
-
-}
